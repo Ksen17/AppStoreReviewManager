@@ -8,7 +8,8 @@ AppStoreReviewManager().askForReviewNow()
 or 
 AppStoreReviewManager().askForReviewAfter(100)//days 
 
-Disclaimer 
-Apple has it's own restrictions on showing this pop up and they will hadle it for you.
+Disclaimer:
+
+Apple has it's own restrictions on showing this pop up and they will handle it for you.
 You can read more at: 
 https://developer.apple.com/documentation/storekit/skstorereviewcontroller/requesting_app_store_reviews
