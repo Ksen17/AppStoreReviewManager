@@ -8,7 +8,7 @@ AppStoreReviewManager().askForReviewNow()
 or 
 AppStoreReviewManager().askForReviewAfter(100)//days 
 
-Disclaimer:
+###Disclaimer:
 
 Apple has it's own restrictions on showing this pop up and they will handle it for you.
 You can read more at: 
